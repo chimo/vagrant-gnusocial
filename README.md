@@ -21,12 +21,12 @@ as well as the port in the GNU social config.php (/srv/http/gnusocial/public_htm
 
 ### Database
 
-db: gnusocial
-user: gnusocial
+db: gnusocial  
+user: gnusocial  
 password: gnusocial
 
 ### GNU social
 
-user: admin
+user: admin  
 password: admin
 
